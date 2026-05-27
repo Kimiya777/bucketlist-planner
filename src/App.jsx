@@ -25,7 +25,7 @@ const demoTrips = [
       "Kamchatka",
     ],
     images: [
-      "/images/spb.jpg",
+      "/images/spb.JPG",
       "/images/moscow.jpeg",
       "/images/kamchatka.jpg",
       "/images/volcano.jpeg",
@@ -92,7 +92,7 @@ const demoTrips = [
       "/images/tokyo3.jpg",
       "/images/fuji.jpeg",
       "/images/deer.jpg",
-      "/images/kyoto.jpg",
+      "/images/kyoto.JPG",
     ],
   },
 
