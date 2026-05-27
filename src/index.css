@@ -14,20 +14,23 @@ body {
 
   background-repeat: repeat;
 
-  background-size: 500px;
+  background-size: 350px;
 
   min-height: 100vh;
 }
 
 .app {
   max-width: 1200px;
-  margin: auto;
+  margin: 0 auto;
   padding: 30px;
 }
 
 .navbar {
   text-align: center;
-  margin-bottom: 40px;
+
+  margin: 0 auto 40px auto;
+
+  max-width: 900px;
 }
 
 .navbar h1 {
@@ -53,6 +56,10 @@ body {
 }
 
 .trip-form {
+  max-width: 700px;
+
+  margin: 0 auto 40px auto;
+
   background:
     rgba(255, 255, 255, 0.22);
 
@@ -75,8 +82,6 @@ body {
 
   box-shadow:
     0 8px 30px rgba(0,0,0,0.12);
-
-  margin-bottom: 40px;
 }
 
 .trip-form input,
@@ -266,3 +271,6 @@ body {
   cursor: pointer;
 }
 
+* {
+  box-sizing: border-box;
+}
