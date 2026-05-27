@@ -25,10 +25,10 @@ const demoTrips = [
       "Kamchatka",
     ],
     images: [
-      "/src/assets/images/spb.jpg",
-      "/src/assets/images/moscow.jpeg",
-      "/src/assets/images/kamchatka.jpg",
-      "/src/assets/images/volcano.jpeg",
+      "/images/spb.jpg",
+      "/images/moscow.jpeg",
+      "/images/kamchatka.jpg",
+      "/images/volcano.jpeg",
     ],
   },
 
@@ -47,10 +47,10 @@ const demoTrips = [
       "Gobi Desert",
     ],
     images: [
-      "/src/assets/images/mongolian-children.jpg",
-      "/src/assets/images/nomad3.jpg",
-      "/src/assets/images/gobi-stars.jpeg",
-      "/src/assets/images/gobi3.jpg",
+      "/images/mongolian-children.jpg",
+      "/images/nomad3.jpg",
+      "/images/gobi-stars.jpeg",
+      "/images/gobi3.jpg",
     ],
   },
 
@@ -66,10 +66,10 @@ const demoTrips = [
       "Solo traveled to Beijing and Shanghai and explored the Great Wall and the Forbidden City.",
     destinations: ["Beijing", "Shanghai"],
     images: [
-      "/src/assets/images/beijing2.jpg",
-      "/src/assets/images/shanghai3.jpg",
-      "/src/assets/images/great-wall2.jpg",
-      "/src/assets/images/forbidden-city.jpeg",
+      "/images/beijing2.jpg",
+      "/images/shanghai3.jpg",
+      "/images/great-wall2.jpg",
+      "/images/forbidden-city.jpeg",
     ],
   },
 
@@ -89,10 +89,10 @@ const demoTrips = [
       "Tokyo",
     ],
     images: [
-      "/src/assets/images/tokyo3.jpg",
-      "/src/assets/images/fuji.jpeg",
-      "/src/assets/images/deer.jpg",
-      "/src/assets/images/kyoto.jpg",
+      "/images/tokyo3.jpg",
+      "/images/fuji.jpeg",
+      "/images/deer.jpg",
+      "/images/kyoto.jpg",
     ],
   },
 
@@ -112,10 +112,10 @@ const demoTrips = [
       "Annapurna",
     ],
     images: [
-      "/src/assets/images/everest4.jpg",
-      "/src/assets/images/nepal-child.jpeg",
-      "/src/assets/images/yak.jpeg",
-      "/src/assets/images/old-man.jpeg",
+      "/images/everest4.jpg",
+      "/images/nepal-child.jpeg",
+      "/images/yak.jpeg",
+      "/images/old-man.jpeg",
     ],
   },
 
@@ -133,7 +133,7 @@ const demoTrips = [
       "",
     ],
     images: [
-      "/src/assets/images/coming-soon2.png",
+      "/images/coming-soon2.png",
     ],
   },
 ];
